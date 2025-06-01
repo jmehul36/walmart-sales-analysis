@@ -10,7 +10,7 @@ Analyzing peak sales periods and customer buying patterns.
 Profit margin analysis by branch and category.
 
 **Results and Insights
-This project will help us in doing analysis of:
+This project will help us in doing analysis of:**
 
 Sales Insights: Key categories, branches with highest sales, and preferred payment methods.
 Profitability: Insights into the most profitable product categories and locations.
